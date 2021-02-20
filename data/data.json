@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "id": "0",
+      "project_name": "Random Quote Displayer",
+      "description": "An app that displays a random quote",
+      "technologies": ["html", "css", "Javascript"],
+      "live_link": "",
+      "github_link": "https://github.com/robbridges/tech-degree-1",
+      "image_urls": ""
+    },
+    {
+      "id": "1",
+      "project_name": "Data pagination and filtering",
+      "description": "Displays paginated data, includes search filter",
+      "technologies": ["html", "css", "Javascript"],
+      "live_link": "",
+      "github_link": "https://github.com/robbridges/techdegree-project-2",
+      "image_urls": ""
+    },
+    {
+      "id": "2",
+      "project_name": "Interactive accessiable web form",
+      "description": "An online web form made interactive by Javascript. Takes into account accessiability of all users",
+      "technologies": ["html", "css", "Javascript"],
+      "live_link": "",
+      "github_link": "https://github.com/robbridges/tech-degree-3",
+      "image_urls": ""
+    },
+    {
+      "id": "3",
+      "project_name": "OOP interactive phrase hunter",
+      "description": "Interactive Javascript OOP game to guess a random phrase",
+      "technologies": ["html", "css", "Javascript", "OOP"],
+      "live_link": "",
+      "github_link": "https://github.com/robbridges/Tech-degree-4",
+      "image_urls": ""
+    },
+    {
+      "id": "4",
+      "project_name": "Public API request",
+      "description": "Uses random user generator API to display random ",
+      "technologies": ["html", "css", "Javascript", "API"],
+      "live_link": "",
+      "github_link": "https://github.com/robbridges/tech-degree-5",
+      "image_urls": ""
+    }
+    
+  ]
+
+}
