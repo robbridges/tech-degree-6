@@ -14,6 +14,13 @@ app.get('/about', (req,res) => {
   res.render('about', data);
 })
 
+app.get('/projects/:id', (req,res) => {
+  const id = req.params.id;
+  const project = projects.find( ({id}) => id === id);
+  res.render('project', project); 
+
+})
+
 app.listen(3000, () => {
   console.log('Express is running on port 3000');
 })

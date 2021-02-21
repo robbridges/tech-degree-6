@@ -43,7 +43,7 @@
       "technologies": ["html", "css", "Javascript", "API"],
       "live_link": "https://robbridges.github.io/tech-degree-5/",
       "github_link": "https://github.com/robbridges/tech-degree-5",
-      "image_urls": ""
+      "image_urls": ["/static/images/Project-5-550x550x.png", "/static/images/Project-5-1200x550x.png"]
     }
     
   ]
