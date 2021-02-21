@@ -7,7 +7,7 @@
       "technologies": ["html", "css", "Javascript"],
       "live_link": "https://robbridges.github.io/tech-degree-1/",
       "github_link": "https://github.com/robbridges/tech-degree-1",
-      "image_urls": ["public/images/Project-1-550x550x.png", "/static/images/Project-1-1200x550x.png"]
+      "image_urls": ["/static/images/Project-0-550x550x.png", "/static/images/Project-0-1200x550x.png"]
     },
     {
       "id": "1",
@@ -16,7 +16,7 @@
       "technologies": ["html", "css", "Javascript"],
       "live_link": "https://robbridges.github.io/techdegree-project-2/",
       "github_link": "https://github.com/robbridges/techdegree-project-2",
-      "image_urls": ["/static/images/Project-2-550x550x.png", "/static/images/Project-2-1200x550x.png"]
+      "image_urls": ["/static/images/Project-1-550x550x.png", "/static/images/Project-1-1200x550x.png"]
     },
     {
       "id": "2",
@@ -25,7 +25,7 @@
       "technologies": ["html", "css", "Javascript"],
       "live_link": "https://robbridges.github.io/tech-degree-3/",
       "github_link": "https://github.com/robbridges/tech-degree-3",
-      "image_urls": ["/static/images/Project-3-550x550x.png", "/static/images/Project-3-1200x550x.png"]
+      "image_urls": ["/static/images/Project-2-550x550x.png", "/static/images/Project-2-1200x550x.png"]
     },
     {
       "id": "3",
@@ -34,7 +34,7 @@
       "technologies": ["html", "css", "Javascript", "OOP"],
       "live_link": "https://robbridges.github.io/Tech-degree-4/",
       "github_link": "https://github.com/robbridges/Tech-degree-4",
-      "image_urls": ["/static/images/Project-4-550x550x.png", "/static/images/Project-4-1200x550x.png"]
+      "image_urls": ["/static/images/Project-3-550x550x.png", "/static/images/Project-3-1200x550x.png"]
     },
     {
       "id": "4",
@@ -43,7 +43,7 @@
       "technologies": ["html", "css", "Javascript", "API"],
       "live_link": "https://robbridges.github.io/tech-degree-5/",
       "github_link": "https://github.com/robbridges/tech-degree-5",
-      "image_urls": ["/static/images/Project-5-550x550x.png", "/static/images/Project-5-1200x550x.png"]
+      "image_urls": ["/static/images/Project-4-550x550x.png", "/static/images/Project-4-1200x550x.png"]
     }
     
   ]
