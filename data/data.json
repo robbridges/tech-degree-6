@@ -5,7 +5,7 @@
       "project_name": "Random Quote Displayer",
       "description": "An app that displays a random quote",
       "technologies": ["html", "css", "Javascript"],
-      "live_link": "",
+      "live_link": "https://robbridges.github.io/tech-degree-1/",
       "github_link": "https://github.com/robbridges/tech-degree-1",
       "image_urls": ""
     },
@@ -14,7 +14,7 @@
       "project_name": "Data pagination and filtering",
       "description": "Displays paginated data, includes search filter",
       "technologies": ["html", "css", "Javascript"],
-      "live_link": "",
+      "live_link": "https://robbridges.github.io/techdegree-project-2/",
       "github_link": "https://github.com/robbridges/techdegree-project-2",
       "image_urls": ""
     },
@@ -23,7 +23,7 @@
       "project_name": "Interactive accessiable web form",
       "description": "An online web form made interactive by Javascript. Takes into account accessiability of all users",
       "technologies": ["html", "css", "Javascript"],
-      "live_link": "",
+      "live_link": "https://robbridges.github.io/tech-degree-3/",
       "github_link": "https://github.com/robbridges/tech-degree-3",
       "image_urls": ""
     },
@@ -32,16 +32,16 @@
       "project_name": "OOP interactive phrase hunter",
       "description": "Interactive Javascript OOP game to guess a random phrase",
       "technologies": ["html", "css", "Javascript", "OOP"],
-      "live_link": "",
+      "live_link": "https://robbridges.github.io/Tech-degree-4/",
       "github_link": "https://github.com/robbridges/Tech-degree-4",
       "image_urls": ""
     },
     {
       "id": "4",
       "project_name": "Public API request",
-      "description": "Uses random user generator API to display random ",
+      "description": "Uses random user generator API to display random user",
       "technologies": ["html", "css", "Javascript", "API"],
-      "live_link": "",
+      "live_link": "https://robbridges.github.io/tech-degree-5/",
       "github_link": "https://github.com/robbridges/tech-degree-5",
       "image_urls": ""
     }
