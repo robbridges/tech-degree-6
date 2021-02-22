@@ -1,0 +1,15 @@
+extends layout.pug
+
+block content
+
+  
+  h1 Oh no! There was an error with a status code of #{error.status}, The errors message is #{error.message}. 
+  h1 The full stack can be seen below.
+  pre #{error.stack}
+
+  
+
+  nav.nav
+      a(href='/')
+        span &larr;
+        |  Take me back!
