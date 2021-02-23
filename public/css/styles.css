@@ -17,7 +17,7 @@ body {
 
 body {
   position: relative;
-  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Lora", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
   color: #0a0a0a;
@@ -114,7 +114,7 @@ nav {
 nav a {
   width: 100%;
   vertical-align: middle;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lora', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 600;
   font-size: 13px;
   letter-spacing: 2.5px;
@@ -137,7 +137,7 @@ nav a span {
   height: 100%;
   min-height: 100%;
   padding: 20px;
-  background: #000;
+  background: rgb(7, 37, 172);
 }
 
 .sidebar-info-box {
@@ -171,7 +171,7 @@ nav a span {
 }
 
 .sidebar a {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lora', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 600;
   font-size: 13px;
   letter-spacing: 2.5px;
@@ -242,12 +242,12 @@ nav a span {
 }
 
 .projects-box h5 {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lora', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 500;
   font-size: 13px;
   letter-spacing: 2.25px;
   text-transform: uppercase;
-  color: #222;;
+  color: rgb(34, 34, 34);;
   margin: 0 auto 8px;
 }
 
