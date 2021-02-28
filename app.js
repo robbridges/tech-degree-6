@@ -26,6 +26,10 @@ app.get('/about', (req,res) => {
   res.render('about', data);
 });
 
+/*
+Redirect if the url is projects to projects[0]
+*/
+
 app.get('/projects', (req,res) => {
   res.redirect('/projects/0');
 })
