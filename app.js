@@ -42,7 +42,7 @@ app.get('/projects/:id', (req,res,next) => {
 });
 
 /*
-middle ware to handle 404 errors
+Final route when there are no other matches, will result in a 404 error that is passed into error handling middlewear
 */
 app.use((req, res, next) => {
   const err = new Error('The requested page was not found');
@@ -50,7 +50,7 @@ app.use((req, res, next) => {
   next(err);
 });
 /*
-Middleware to handle any error that is not a 404 error. 
+Middleware to handle errors 
 */
 app.use((err, req, res, next) => {
   res.locals.error = err;
