@@ -25,6 +25,10 @@ app.get('/about', (req,res) => {
   
   res.render('about', data);
 });
+
+app.get('/projects', (req,res) => {
+  res.redirect('/projects/0');
+})
 /*
 Unique route that shows the project based on the id that is given. It renders the 404 page if the project is less than 0 (Out of array index) or greater than the length of the array minus one
 as the project id is zero based index. It also renders the 404 page not found if someone tries to pass in a value that is not a number
