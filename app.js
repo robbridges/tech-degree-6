@@ -37,9 +37,9 @@ app.get('/projects/:id', (req,res) => {
     console.log(`There was an ${err.status} error`);
     console.log(err.stack);
     res.render('page-not-found', {error: err}); 
-  } else {
+  } 
   res.render('project', data.projects[id]); 
-  }
+  
   
 
 });
