@@ -43,9 +43,8 @@ app.get('/projects/:id', (req,res,next) => {
   const id = req.params.id;
   if (id > data.projects.length -1 || id < 0 || isNaN(id)) {
     next();
-    
   } else { 
-  res.render('project', data.projects[id]);
+    res.render('project', data.projects[id]);
   }
 });
 
@@ -63,8 +62,8 @@ Middleware to handle errors
 app.use((err, req, res, next) => {
   res.locals.error = err;
   res.status(err.status);
-  console.log(`There was an ${err.status} error`);
-  console.log(err.stack);
+  console.error(`There was an ${err.status} error`);
+  console.error(err.stack);
   if (err.status = 404) {
     res.render('page-not-found', {error: err});
   } else {
